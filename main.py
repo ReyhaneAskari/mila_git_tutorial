@@ -1,6 +1,6 @@
 import numpy
 
-print "feature a added"
+print "feature b added"
 print "new feature added!!!!!"
 
 print "Hi everyone!"
