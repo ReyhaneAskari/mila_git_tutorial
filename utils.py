@@ -1,3 +1,3 @@
 import numpy
 
-print "feature A is added"
+print "adding feature A"
